@@ -31,17 +31,6 @@ This project is a comprehensive data engineering solution designed to fetch, pro
    - Power BI connects to Snowflake to visualize the processed data for analysis and reporting.
 
 ## Project Architecture Diagram
-![Redfin Image]((https://github.com/MLwithMuzammil/REDFIN-DATA-PIPELINE/blob/main/Redfin1.drawio.png))
-## Setup and Installation
+![Redfin Image](https://github.com/MLwithMuzammil/REDFIN-DATA-PIPELINE/blob/main/Redfin1.drawio.png?raw=true)
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/redfin-data-pipeline.git
-   cd redfin-data-pipeline
-2. **Install all dependencies from requirements.txt**
-3. **Pre requirements**
-   Make sure you have linux platform to run apache airflow
-   - you can either use dockers to run airflow webserver.
-   - or a virtual machine with linux os installed.
-   - or you can use ec2 instance of aws.
 # REDFIN-DATA-PIPELINE
