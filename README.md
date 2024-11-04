@@ -31,7 +31,7 @@ This project is a comprehensive data engineering solution designed to fetch, pro
    - Power BI connects to Snowflake to visualize the processed data for analysis and reporting.
 
 ## Project Architecture Diagram
-![Redfin Image]([https://your-image-link.png](https://github.com/MLwithMuzammil/REDFIN-DATA-PIPELINE/blob/main/Redfin1.drawio%20(1).pdf))
+![Redfin Image]((https://github.com/MLwithMuzammil/REDFIN-DATA-PIPELINE/blob/main/Redfin1.drawio.png))
 ## Setup and Installation
 
 1. **Clone the Repository**
